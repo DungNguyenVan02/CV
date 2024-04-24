@@ -52,7 +52,7 @@ menuShowMore.addEventListener("click", () => {
 var typed = new Typed(".text", {
 	strings: [
 		"welcome to look at my profile! 👋",
-		"I am a website application developer. 👨‍💻",
+		"I am a developer. 👨‍💻",
 	],
 	typeSpeed: 100,
 	backSpeed: 120,
